@@ -41,9 +41,9 @@ Q. Is there a difference in average order value (AOV) for online vs. in-store sa
 
 ---
 
-# Project Author: Bhagyashree Pednekar
+Project Author: Bhagyashree Pednekar
 Dashboard Tool: Microsoft Power BI Desktop
 Project Type: Business Intelligence Capstone Project
 Date: February 2026
-Missed Opportunities: Customer buying behaviors and geographic distribution were poorly understood
+
 
